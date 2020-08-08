@@ -1,2 +1,2 @@
-# MLM
- MLM - Mobile Legends Mailer. A method to spam mobile legends account mail using Mobile Legends API.
+# Huh?
+Compile the program, enter you ML Game ID and check your in game mail.
