@@ -1,0 +1,12 @@
+C:\Users\aimar\source\repos\MLRedeem\MLRedeem\bin\Debug\MLRedeem.exe.config
+C:\Users\aimar\source\repos\MLRedeem\MLRedeem\bin\Debug\MLRedeem.exe
+C:\Users\aimar\source\repos\MLRedeem\MLRedeem\bin\Debug\MLRedeem.pdb
+C:\Users\aimar\source\repos\MLRedeem\MLRedeem\obj\Debug\MLRedeem.csprojAssemblyReference.cache
+C:\Users\aimar\source\repos\MLRedeem\MLRedeem\obj\Debug\MLRedeem.csproj.CoreCompileInputs.cache
+C:\Users\aimar\source\repos\MLRedeem\MLRedeem\obj\Debug\MLRedeem.exe
+C:\Users\aimar\source\repos\MLRedeem\MLRedeem\obj\Debug\MLRedeem.pdb
+C:\Users\aimar\source\repos\MLRedeem\MLRedeem\bin\Debug\Combinatorics.dll
+C:\Users\aimar\source\repos\MLRedeem\MLRedeem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aimar\source\repos\MLRedeem\MLRedeem\bin\Debug\Combinatorics.xml
+C:\Users\aimar\source\repos\MLRedeem\MLRedeem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aimar\source\repos\MLRedeem\MLRedeem\obj\Debug\MLRedeem.csproj.CopyComplete
